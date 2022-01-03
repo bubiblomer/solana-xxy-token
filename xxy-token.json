@@ -1,0 +1,9 @@
+{
+	"chainId": 101,
+	"address": "J8UCMUQTTjthdRMHsYNoZTSfbVypD8JProEytWep4xMg",
+	"symbol": "XXY",
+	"name": "XXY Token",
+	"decimals": 8,
+	"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/8fa486f881592f439f62d6f8a40c49cd64a9450b/assets/mainnet/J8UCMUQTTjthdRMHsYNoZTSfbVypD8JProEytWep4xMg/xxy-logo.png",
+	"tags": ["utility-token"]
+}
